@@ -4,3 +4,25 @@
     align-items: center;
     flex-direction: column;
 }
+.c-login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.btn-success{
+    margin: 15px;
+}
+.c-prod{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 15px;
+}
+.c-tienda{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
